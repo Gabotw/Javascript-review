@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "name": "javascript-review",
+  "version": "1.0.0",
+  "description": "JavaScript Sample Project",
+  "module": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "dependencies": {
+    "uuid": "^9.0.1"
+  }
+}
